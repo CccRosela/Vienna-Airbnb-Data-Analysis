@@ -15,7 +15,8 @@ The analysis consists of three main stages:
 * `data/` – contains the Airbnb dataset
 * `Graphs/` – contains the graphs generated during the EDA.
 * `notebook/` – contains the Jupyter notebook with the complete analysis.
-* `requirements.txt` – lists the Python packages required to run the analysis.
+* `requirements.txt` – lists the Python packages required to run the analysis. Run in your terminal: 
+`python -m pip install -r requirements.txt`
 * `README.md` – provides an overview and documentation of the project.
 
 ## Dataset
